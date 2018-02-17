@@ -1,6 +1,6 @@
-# Project Research Articles Check List
+# Project Research Check List
 
-## Feb 18: Gathering useful papers before writing our codes
+## Feb 18: Gathering/reading useful papers before writing our codes
 
 ### 2/17: Understanding Real User Monitoring
 ..`window.onload()` won't give you RUM
