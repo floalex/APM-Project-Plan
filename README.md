@@ -11,4 +11,6 @@
 - [x] [6 Ways Real User Monitoring Differs From Google Analytics ](http://www.monitis.com/blog/6-ways-real-user-monitoring-differs-from-google-analytics/)
 
 ### 2/18: Learn from open source project:
-- [] [TraceBin](http://tylerguillen.com/blog/2017/05/01/tracebin-story-part-1/)
+- [x] [TraceBin](http://tylerguillen.com/blog/2017/05/01/tracebin-story-part-1/)
+- [] [User Timeing and Custom Metrics](https://speedcurve.com/blog/user-timing-and-custom-metrics/)
+- [] [The Performance Beacon](https://www.soasta.com/blog/lessons-learned-web-performance-monitoring-single-page-applications/)
